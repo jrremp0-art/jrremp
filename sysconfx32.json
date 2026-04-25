@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "group_chat_id": -5138853778,
+  "tokens": [
+    { "token": "8729575364:AAGjpmAtohVpyh7802EVkyuJHjWGuDyhXRI", "main": true },
+    { "token": "8761252345:AAFXzdCbvGT-_PQeAih_VpzpBf8PckTPEGg", "main": false },
+    { "token": "8574507929:AAGLMg09oiUfVSstw_PelSsBqKKJhCqY3Es", "main": false },
+    { "token": "8614865084:AAE_MPaTbvOzpG2-RvTeZDZOc2sVTqFeRKg", "main": false },
+    { "token": "8630638224:AAHx-uS3CobEz-GsVllMQVvHORYqcvjAekI", "main": false },
+    { "token": "8658862267:AAHQ4w4wgnMqypwm8sNKGw2oAjQvKkWD4Xs", "main": false }
+  ]
+}
