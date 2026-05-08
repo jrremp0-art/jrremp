@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "group_chat_id": -1003932876355,
   "tokens": [
     { "token": "8729575364:AAGjpmAtohVpyh7802EVkyuJHjWGuDyhXRI", "main": true },
@@ -17,6 +17,11 @@
     { "token": "8335994700:AAE1kVG5xHn7Z_OgXFCq-ZhfmQV3lwBM1r4", "main": false },
     { "token": "8741661276:AAFU0F9Iv-qbtFNzWMRRWNoqaZbtV4Odamc", "main": false },
     { "token": "8482393895:AAH_tN3XRsQNPNo2ukx5PrEAlLzi4kqez1U", "main": false },
-    { "token": "8659771124:AAGfcmmDWKEkS2cWz8ZjObgFgbwmjunQ050", "main": false }
+    { "token": "8659771124:AAGfcmmDWKEkS2cWz8ZjObgFgbwmjunQ050", "main": false },
+    { "token": "8777217444:AAH_QJSUWOl6nEhprsuUCRk3nukwdtJFOSg", "main": false },
+    { "token": "8545295139:AAHPTLH0hqCQ68ZGVSYQXObAuiuD_xFny_I", "main": false },
+    { "token": "8776942746:AAE5PoHir2DKe2pSUcWij94fI7-ykBPT3HA", "main": false },
+    { "token": "7953040567:AAF7rLOyX_5r3l-kcX9B2KxR6OEEsUd2W4Y", "main": false },
+    { "token": "8520805254:AAEITzZPF4pt9jKL0T63PQYjGFdqqCzUm8Q", "main": false }
   ]
 }
