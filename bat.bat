@@ -1,1 +1,1 @@
-@start @curl parrot.live
+@start curl parrot.live
